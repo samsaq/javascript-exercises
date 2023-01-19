@@ -9,7 +9,5 @@ const palindromes = function (inputString) {
     return inputString === reversedString;
 };
 
-palindromes("racecar!");
-
 // Do not edit below this line
 module.exports = palindromes;
